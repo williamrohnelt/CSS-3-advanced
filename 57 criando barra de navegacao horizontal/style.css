@@ -1,0 +1,39 @@
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 540px;
+    background: #159cb0 url(images/fundo-h.png);
+    float: left;
+}
+
+ul li {
+    float: left;
+}
+
+ul a {
+    display: block;
+    padding: 0 2em;
+    line-height: 2.2em;
+    text-decoration: none;
+    color: #fff;
+    background: url(images/divisor.png) repeat-y;
+}
+
+ul .first a {
+    background: none;
+}
+
+ul a:hover {
+    color: #085662;
+    background: #44cade;
+}
+
+#home #navigation .home a,
+#about #navigation .about a,
+#services #navigation .services a,
+#news #navigation .news a,
+#contact #navigation .contact a {
+    color: #085662;
+    background: #44cade;
+}
