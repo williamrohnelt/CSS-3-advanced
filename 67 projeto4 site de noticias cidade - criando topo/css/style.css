@@ -85,12 +85,6 @@ body.photos #navigation a#photos {
     margin: 0 0 20px -750px;
 }
 
-#three-columns #primary {
-    width: 270px;
-    float: left;
-    margin: 0 0 20px 195px;
-}
-
 #primary {
     width: 270px;
     float: left;
