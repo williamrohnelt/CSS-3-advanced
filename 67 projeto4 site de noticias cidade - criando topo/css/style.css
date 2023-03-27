@@ -163,6 +163,29 @@ input.submit {
     border: 2px solid #870529;
 }
 
+/* Formatting imagens */
+img.principal-image {
+    width: 98%;
+    border: 3px solid #dfdfdf;
+}
+
+/* Formatting header */
+h3 {
+    text-transform: uppercase;
+    display: inline;
+    font-size: 0.8em;
+    padding: 3px;
+}
+
+.highlight h3 {
+    background: #b10333;
+    color: #fff;
+}
+
+.interview h3 {
+    background: #de003e;
+}
+
 /* Baseboard */
 #container-baseboard {
     background: #294c71;
